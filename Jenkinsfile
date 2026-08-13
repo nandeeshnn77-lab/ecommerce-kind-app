@@ -26,7 +26,7 @@ pipeline {
                 echo '======================================'
 
                 git branch: 'main',
-                    url: 'https://github.com/YOUR_USERNAME/ecommerce-kind-app.git'
+                    url: 'https://github.com/nandeeshnn77-lab/ecommerce-kind-app.git'
             }
         }
 
